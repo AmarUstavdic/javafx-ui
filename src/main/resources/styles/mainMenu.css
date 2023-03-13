@@ -1,0 +1,29 @@
+.menu-vbox {
+    -fx-spacing: 10;
+    -fx-alignment: center;
+}
+
+
+
+.main-title {
+
+
+}
+
+.main-scene-btn {
+    -fx-min-width: 320;
+    -fx-max-width: 320;
+    -fx-min-height: 50;
+    -fx-max-height: 50;
+    -fx-background-radius: 15;
+    -fx-border-style: 1 solid black;
+    -fx-border-radius: 15;
+    -fx-text-alignment: center;
+    -fx-padding: 10;
+    -fx-text-fill: #ffffff;
+    -fx-background-color: #2E2E2E;
+}
+
+.main-quit-btn {
+    -fx-background-color: #BD0000;
+}

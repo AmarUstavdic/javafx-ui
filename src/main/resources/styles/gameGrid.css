@@ -1,0 +1,46 @@
+
+
+#token-holder {
+    -fx-min-width: 50;
+    -fx-max-width: 50;
+    -fx-min-height: 50;
+    -fx-max-height: 50;
+    /*-fx-background-image: url("../images/token-holder-frame.png");*/
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-radius: 50%;
+    -fx-background-color: transparent;
+    -fx-border-style: solid;
+    -fx-border-width: 2px;
+    -fx-border-color: #002EA5;
+    -fx-border-radius: 50%;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.5), 10, 0.5, 3, 3);
+}
+
+#red-token {
+    -fx-min-width: 50;
+    -fx-max-width: 50;
+    -fx-min-height: 50;
+    -fx-max-height: 50;
+    -fx-background-image: url("../images/red-token.png");
+    -fx-background-size: cover;
+    -fx-background-position: center;
+
+
+}
+
+#yellow-token {
+    -fx-min-width: 50;
+    -fx-max-width: 50;
+    -fx-min-height: 50;
+    -fx-max-height: 50;
+    -fx-background-image: url("../images/yellow-token.png");
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-border-style: solid;
+    -fx-border-width: 2px;
+    -fx-border-color: #002EA5;
+    -fx-border-radius: 50%;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.5), 10, 0.5, 3, 3);
+}
+

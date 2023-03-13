@@ -1,0 +1,81 @@
+.left-side-container {
+    -fx-background-color: #151515;
+}
+
+.game-view {
+    -fx-background-color: #151515;
+
+}
+
+.player-bar {
+    -fx-min-width: 430;
+    -fx-max-width: 430;
+    -fx-min-height: 70;
+    -fx-max-height: 70;
+    -fx-background-radius: 15;
+    -fx-background-color: #2E2E2E;
+}
+
+.game-grid {
+    -fx-min-width: 430;
+    -fx-max-width: 430;
+    -fx-min-height: 370;
+    -fx-max-height: 370;
+    -fx-background-radius: 15;
+    /*-fx-background-color: #00278C;  */
+}
+
+.right-side-container {
+
+}
+
+.main-controls {
+    -fx-min-width: 250;
+    -fx-max-width: 250;
+    -fx-min-height: 320;
+    -fx-max-height: 320;
+    -fx-background-radius: 15;
+    -fx-background-color: #2E2E2E;
+}
+
+.secondary-controls {
+    -fx-min-width: 250;
+    -fx-max-width: 250;
+    -fx-min-height: 40;
+    -fx-max-height: 40;
+    -fx-background-radius: 15;
+    -fx-background-color: #151515;
+}
+
+.abort-btn {
+    -fx-min-width: 120;
+    -fx-max-width: 120;
+    -fx-min-height: 40;
+    -fx-max-height: 40;
+    -fx-background-radius: 15;
+    -fx-background-color: #2E2E2E;
+    -fx-font-size: 20px;
+    -fx-font-family: "Inter Semi Bold";
+    -fx-text-fill: #ffffff;
+}
+
+.report-btn {
+    -fx-min-width: 120;
+    -fx-max-width: 120;
+    -fx-min-height: 40;
+    -fx-max-height: 40;
+    -fx-background-radius: 15;
+    -fx-background-color: #830000;
+    -fx-font-size: 20px;
+    -fx-font-family: "Inter Semi Bold";
+    -fx-text-fill: #ffffff;
+}
+
+.chat {
+    -fx-min-width: 250;
+    -fx-max-width: 250;
+    -fx-min-height: 150;
+    -fx-max-height: 150;
+    -fx-background-radius: 15;
+    -fx-background-color: #2E2E2E;
+}
